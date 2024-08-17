@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Luke read that fractions with the same denominator are easier to compare. Which fraction is larger?",
+    "options": [
+      "1/5",
+      "3/5",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "Luke read that fractions with the same denominator are easier to compare. Which fraction is smaller?",
+    "options": [
+      "2/4",
+      "3/4",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "Compare the fractions 4/8 & 7/8. Choose the correct answer from the given options.",
+    "options": [
+      "4/8 > 7/8",
+      "4/8 < 7/8",
+      "4/8 = 7/8",
+      "It cannot be determined"
+    ],
+    "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "Which fraction is smaller: 17/11 or 18/11?",
+    "options": [
+      "17/11",
+      "18/11",
+      "They are equal",
+      "It cannot be determined"
+    ],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "In which of the following figures, shaded fraction shows 1 ¼",
+    "options": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
+    ],
+    "correct": 1,
+      "img": "./assests/story/1.png"
+  }
+]
